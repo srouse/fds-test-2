@@ -1,0 +1,360 @@
+@mixin background-color-dog-100 {
+  --background-color: var( --sss-color-dog-100 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-200 {
+  --background-color: var( --sss-color-dog-200 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-300 {
+  --background-color: var( --sss-color-dog-300 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-400 {
+  --background-color: var( --sss-color-dog-400 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-500 {
+  --background-color: var( --sss-color-dog-500 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog {
+  --background-color: var( --sss-color-dog );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-600 {
+  --background-color: var( --sss-color-dog-600 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-700 {
+  --background-color: var( --sss-color-dog-700 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-800 {
+  --background-color: var( --sss-color-dog-800 );
+  background-color: var( --background-color );
+}
+@mixin background-color-dog-900 {
+  --background-color: var( --sss-color-dog-900 );
+  background-color: var( --background-color );
+}
+@mixin background-color-hover-dog-100 {
+  &:hover {
+    background-color: var( --sss-color-dog-100 );
+  }
+}
+@mixin background-color-hover-dog-200 {
+  &:hover {
+    background-color: var( --sss-color-dog-200 );
+  }
+}
+@mixin background-color-hover-dog-300 {
+  &:hover {
+    background-color: var( --sss-color-dog-300 );
+  }
+}
+@mixin background-color-hover-dog-400 {
+  &:hover {
+    background-color: var( --sss-color-dog-400 );
+  }
+}
+@mixin background-color-hover-dog-500 {
+  &:hover {
+    background-color: var( --sss-color-dog-500 );
+  }
+}
+@mixin background-color-hover-dog {
+  &:hover {
+    background-color: var( --sss-color-dog );
+  }
+}
+@mixin background-color-hover-dog-600 {
+  &:hover {
+    background-color: var( --sss-color-dog-600 );
+  }
+}
+@mixin background-color-hover-dog-700 {
+  &:hover {
+    background-color: var( --sss-color-dog-700 );
+  }
+}
+@mixin background-color-hover-dog-800 {
+  &:hover {
+    background-color: var( --sss-color-dog-800 );
+  }
+}
+@mixin background-color-hover-dog-900 {
+  &:hover {
+    background-color: var( --sss-color-dog-900 );
+  }
+}
+@mixin color-dog-100 {
+  --color: var( --sss-color-dog-100 );
+  color: var( --color );
+}
+@mixin color-dog-200 {
+  --color: var( --sss-color-dog-200 );
+  color: var( --color );
+}
+@mixin color-dog-300 {
+  --color: var( --sss-color-dog-300 );
+  color: var( --color );
+}
+@mixin color-dog-400 {
+  --color: var( --sss-color-dog-400 );
+  color: var( --color );
+}
+@mixin color-dog-500 {
+  --color: var( --sss-color-dog-500 );
+  color: var( --color );
+}
+@mixin color-dog {
+  --color: var( --sss-color-dog );
+  color: var( --color );
+}
+@mixin color-dog-600 {
+  --color: var( --sss-color-dog-600 );
+  color: var( --color );
+}
+@mixin color-dog-700 {
+  --color: var( --sss-color-dog-700 );
+  color: var( --color );
+}
+@mixin color-dog-800 {
+  --color: var( --sss-color-dog-800 );
+  color: var( --color );
+}
+@mixin color-dog-900 {
+  --color: var( --sss-color-dog-900 );
+  color: var( --color );
+}
+@mixin color-hover-dog-100 {
+  &:hover {
+    color: var( --sss-color-dog-100 );
+  }
+}
+@mixin color-hover-dog-200 {
+  &:hover {
+    color: var( --sss-color-dog-200 );
+  }
+}
+@mixin color-hover-dog-300 {
+  &:hover {
+    color: var( --sss-color-dog-300 );
+  }
+}
+@mixin color-hover-dog-400 {
+  &:hover {
+    color: var( --sss-color-dog-400 );
+  }
+}
+@mixin color-hover-dog-500 {
+  &:hover {
+    color: var( --sss-color-dog-500 );
+  }
+}
+@mixin color-hover-dog {
+  &:hover {
+    color: var( --sss-color-dog );
+  }
+}
+@mixin color-hover-dog-600 {
+  &:hover {
+    color: var( --sss-color-dog-600 );
+  }
+}
+@mixin color-hover-dog-700 {
+  &:hover {
+    color: var( --sss-color-dog-700 );
+  }
+}
+@mixin color-hover-dog-800 {
+  &:hover {
+    color: var( --sss-color-dog-800 );
+  }
+}
+@mixin color-hover-dog-900 {
+  &:hover {
+    color: var( --sss-color-dog-900 );
+  }
+}
+@mixin border-color-dog-100 {
+  border-color: var( --sss-color-dog-100 );
+}
+@mixin border-color-dog-200 {
+  border-color: var( --sss-color-dog-200 );
+}
+@mixin border-color-dog-300 {
+  border-color: var( --sss-color-dog-300 );
+}
+@mixin border-color-dog-400 {
+  border-color: var( --sss-color-dog-400 );
+}
+@mixin border-color-dog-500 {
+  border-color: var( --sss-color-dog-500 );
+}
+@mixin border-color-dog {
+  border-color: var( --sss-color-dog );
+}
+@mixin border-color-dog-600 {
+  border-color: var( --sss-color-dog-600 );
+}
+@mixin border-color-dog-700 {
+  border-color: var( --sss-color-dog-700 );
+}
+@mixin border-color-dog-800 {
+  border-color: var( --sss-color-dog-800 );
+}
+@mixin border-color-dog-900 {
+  border-color: var( --sss-color-dog-900 );
+}
+@mixin border-dog-100 {
+  border: 1px solid var( --sss-color-dog-100 );
+}
+@mixin border-dog-200 {
+  border: 1px solid var( --sss-color-dog-200 );
+}
+@mixin border-dog-300 {
+  border: 1px solid var( --sss-color-dog-300 );
+}
+@mixin border-dog-400 {
+  border: 1px solid var( --sss-color-dog-400 );
+}
+@mixin border-dog-500 {
+  border: 1px solid var( --sss-color-dog-500 );
+}
+@mixin border-dog {
+  border: 1px solid var( --sss-color-dog );
+}
+@mixin border-dog-600 {
+  border: 1px solid var( --sss-color-dog-600 );
+}
+@mixin border-dog-700 {
+  border: 1px solid var( --sss-color-dog-700 );
+}
+@mixin border-dog-800 {
+  border: 1px solid var( --sss-color-dog-800 );
+}
+@mixin border-dog-900 {
+  border: 1px solid var( --sss-color-dog-900 );
+}
+@mixin border-top-dog-100 {
+  border-top: 1px solid var( --sss-color-dog-100 );
+}
+@mixin border-top-dog-200 {
+  border-top: 1px solid var( --sss-color-dog-200 );
+}
+@mixin border-top-dog-300 {
+  border-top: 1px solid var( --sss-color-dog-300 );
+}
+@mixin border-top-dog-400 {
+  border-top: 1px solid var( --sss-color-dog-400 );
+}
+@mixin border-top-dog-500 {
+  border-top: 1px solid var( --sss-color-dog-500 );
+}
+@mixin border-top-dog {
+  border-top: 1px solid var( --sss-color-dog );
+}
+@mixin border-top-dog-600 {
+  border-top: 1px solid var( --sss-color-dog-600 );
+}
+@mixin border-top-dog-700 {
+  border-top: 1px solid var( --sss-color-dog-700 );
+}
+@mixin border-top-dog-800 {
+  border-top: 1px solid var( --sss-color-dog-800 );
+}
+@mixin border-top-dog-900 {
+  border-top: 1px solid var( --sss-color-dog-900 );
+}
+@mixin border-bottom-dog-100 {
+  border-bottom: 1px solid var( --sss-color-dog-100 );
+}
+@mixin border-bottom-dog-200 {
+  border-bottom: 1px solid var( --sss-color-dog-200 );
+}
+@mixin border-bottom-dog-300 {
+  border-bottom: 1px solid var( --sss-color-dog-300 );
+}
+@mixin border-bottom-dog-400 {
+  border-bottom: 1px solid var( --sss-color-dog-400 );
+}
+@mixin border-bottom-dog-500 {
+  border-bottom: 1px solid var( --sss-color-dog-500 );
+}
+@mixin border-bottom-dog {
+  border-bottom: 1px solid var( --sss-color-dog );
+}
+@mixin border-bottom-dog-600 {
+  border-bottom: 1px solid var( --sss-color-dog-600 );
+}
+@mixin border-bottom-dog-700 {
+  border-bottom: 1px solid var( --sss-color-dog-700 );
+}
+@mixin border-bottom-dog-800 {
+  border-bottom: 1px solid var( --sss-color-dog-800 );
+}
+@mixin border-bottom-dog-900 {
+  border-bottom: 1px solid var( --sss-color-dog-900 );
+}
+@mixin border-left-dog-100 {
+  border-left: 1px solid var( --sss-color-dog-100 );
+}
+@mixin border-left-dog-200 {
+  border-left: 1px solid var( --sss-color-dog-200 );
+}
+@mixin border-left-dog-300 {
+  border-left: 1px solid var( --sss-color-dog-300 );
+}
+@mixin border-left-dog-400 {
+  border-left: 1px solid var( --sss-color-dog-400 );
+}
+@mixin border-left-dog-500 {
+  border-left: 1px solid var( --sss-color-dog-500 );
+}
+@mixin border-left-dog {
+  border-left: 1px solid var( --sss-color-dog );
+}
+@mixin border-left-dog-600 {
+  border-left: 1px solid var( --sss-color-dog-600 );
+}
+@mixin border-left-dog-700 {
+  border-left: 1px solid var( --sss-color-dog-700 );
+}
+@mixin border-left-dog-800 {
+  border-left: 1px solid var( --sss-color-dog-800 );
+}
+@mixin border-left-dog-900 {
+  border-left: 1px solid var( --sss-color-dog-900 );
+}
+@mixin border-right-dog-100 {
+  border-right: 1px solid var( --sss-color-dog-100 );
+}
+@mixin border-right-dog-200 {
+  border-right: 1px solid var( --sss-color-dog-200 );
+}
+@mixin border-right-dog-300 {
+  border-right: 1px solid var( --sss-color-dog-300 );
+}
+@mixin border-right-dog-400 {
+  border-right: 1px solid var( --sss-color-dog-400 );
+}
+@mixin border-right-dog-500 {
+  border-right: 1px solid var( --sss-color-dog-500 );
+}
+@mixin border-right-dog {
+  border-right: 1px solid var( --sss-color-dog );
+}
+@mixin border-right-dog-600 {
+  border-right: 1px solid var( --sss-color-dog-600 );
+}
+@mixin border-right-dog-700 {
+  border-right: 1px solid var( --sss-color-dog-700 );
+}
+@mixin border-right-dog-800 {
+  border-right: 1px solid var( --sss-color-dog-800 );
+}
+@mixin border-right-dog-900 {
+  border-right: 1px solid var( --sss-color-dog-900 );
+}
