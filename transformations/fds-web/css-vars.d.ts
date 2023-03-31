@@ -1,0 +1,119 @@
+export type SSSTypeValue =
+  'type-text-10' |
+  'type-text-10-size' |
+  'type-text-10-weight' |
+  'type-text-9' |
+  'type-text-9-size' |
+  'type-text-9-weight' |
+  'type-text-8' |
+  'type-text-8-size' |
+  'type-text-8-weight' |
+  'type-text-7' |
+  'type-text-7-size' |
+  'type-text-7-weight' |
+  'type-text-6' |
+  'type-text-6-size' |
+  'type-text-6-weight' |
+  'type-text-5' |
+  'type-text-5-size' |
+  'type-text-5-weight' |
+  'type-text' |
+  'type-text-size' |
+  'type-text-weight' |
+  'type-text-4' |
+  'type-text-4-size' |
+  'type-text-4-weight' |
+  'type-text-3' |
+  'type-text-3-size' |
+  'type-text-3-weight' |
+  'type-text-2' |
+  'type-text-2-size' |
+  'type-text-2-weight' |
+  'type-text-1' |
+  'type-text-1-size' |
+  'type-text-1-weight';
+
+export type SSSColorValue =
+  'color-dog-100' |
+  'color-dog-200' |
+  'color-dog-300' |
+  'color-dog-400' |
+  'color-dog-500' |
+  'color-dog' |
+  'color-dog-600' |
+  'color-dog-700' |
+  'color-dog-800' |
+  'color-dog-900';
+
+export type SSSSpacingValue =
+  'spacing-col-0' |
+  'spacing-col-0-3' |
+  'spacing-col-0-4' |
+  'spacing-col-0-6' |
+  'spacing-col-0-8' |
+  'spacing-col-0-9' |
+  'spacing-col-1' |
+  'spacing-col-1-3' |
+  'spacing-col-1-4' |
+  'spacing-col-1-6' |
+  'spacing-col-1-8' |
+  'spacing-col-1-9' |
+  'spacing-col-2' |
+  'spacing-col-2-3' |
+  'spacing-col-2-4' |
+  'spacing-col-2-6' |
+  'spacing-col-2-8' |
+  'spacing-col-2-9' |
+  'spacing-col-3' |
+  'spacing-col-3-3' |
+  'spacing-col-3-4' |
+  'spacing-col-3-6' |
+  'spacing-col-3-8' |
+  'spacing-col-3-9' |
+  'spacing-col-4' |
+  'spacing-col-5' |
+  'spacing-col-6' |
+  'spacing-col-7' |
+  'spacing-col-8' |
+  'spacing-col-9' |
+  'spacing-col-10' |
+  'spacing-col-11' |
+  'spacing-col-12' |
+  'spacing-colvw-0' |
+  'spacing-colvw-0-3' |
+  'spacing-colvw-0-4' |
+  'spacing-colvw-0-6' |
+  'spacing-colvw-0-8' |
+  'spacing-colvw-0-9' |
+  'spacing-colvw-1' |
+  'spacing-colvw-1-3' |
+  'spacing-colvw-1-4' |
+  'spacing-colvw-1-6' |
+  'spacing-colvw-1-8' |
+  'spacing-colvw-1-9' |
+  'spacing-colvw-2' |
+  'spacing-colvw-2-3' |
+  'spacing-colvw-2-4' |
+  'spacing-colvw-2-6' |
+  'spacing-colvw-2-8' |
+  'spacing-colvw-2-9' |
+  'spacing-colvw-3' |
+  'spacing-colvw-3-3' |
+  'spacing-colvw-3-4' |
+  'spacing-colvw-3-6' |
+  'spacing-colvw-3-8' |
+  'spacing-colvw-3-9' |
+  'spacing-colvw-4' |
+  'spacing-colvw-5' |
+  'spacing-colvw-6' |
+  'spacing-colvw-7' |
+  'spacing-colvw-8' |
+  'spacing-colvw-9' |
+  'spacing-colvw-10' |
+  'spacing-colvw-11' |
+  'spacing-colvw-12';
+
+export type SSSValue =
+  SSSTypeValue |
+  SSSColorValue |
+  SSSSpacingValue;
