@@ -1,0 +1,515 @@
+{
+  "$description": "sss (sss) Design Tokens",
+  "sss": {
+    "$extensions": {
+      "dsys.level": "sheet",
+      "dsys.prefix": "sss",
+      "dsys.fullName": "sss"
+    },
+    "type": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "TypographySet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the type tokens",
+      "text": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "TypographySet",
+          "dsys.name": "text",
+          "dsys.nodeId": "104:1479"
+        },
+        "$description": "text typography tokens",
+        "text-10": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-10",
+            "dsys.index": 0,
+            "dsys.styleId": "S:733b938aa0b4a29eee58eaa4d48888a22736e049,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 29,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-9": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-9",
+            "dsys.index": 1,
+            "dsys.styleId": "S:860ee64781c19eb913234070eedd9bb2976f0c3a,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 24,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-8": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-8",
+            "dsys.index": 2,
+            "dsys.styleId": "S:97f4c7870f4476b84326451acb77e044d0d342f3,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 21,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-7": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-7",
+            "dsys.index": 3,
+            "dsys.styleId": "S:3618e58b874ecf835c69cbb82bbf981b9ed4b7c0,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 19,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-6": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-6",
+            "dsys.index": 4,
+            "dsys.styleId": "S:e85017b13c258fddd81b8a8645969d361b7d3082,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 17,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-5": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-5",
+            "dsys.index": 5,
+            "dsys.styleId": "S:2509ba3768bf8c51bfaede2cbc40bdef5898c1d8,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text",
+            "dsys.index": 6,
+            "dsys.styleId": "S:3d8c87a63661ecbff58a270592b384e73abd1d1d,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 16,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-4": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-4",
+            "dsys.index": 7,
+            "dsys.styleId": "S:39be0b0e1bfcd51d14ea12525d602affa8e68507,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 15,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-3": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-3",
+            "dsys.index": 8,
+            "dsys.styleId": "S:35aba7d648069db4f2bf4f4edfe433b11b3e5406,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 14,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-2": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-2",
+            "dsys.index": 9,
+            "dsys.styleId": "S:a18a224ee26eb6c94243eb5dfc31e3b6cd81ad87,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 12,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        },
+        "text-1": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "text-1",
+            "dsys.index": 10,
+            "dsys.styleId": "S:c0443c499e8288250ab64ce94695bfe1c586241d,"
+          },
+          "$value": {
+            "fontFamily": "Arsenal",
+            "fontStyle": "normal",
+            "figmaFontObj": {
+              "family": "Arsenal",
+              "style": "Regular"
+            },
+            "fontWeight": 400,
+            "fontSize": 11,
+            "letterSpacing": {
+              "unit": "PERCENT",
+              "value": 0
+            },
+            "lineHeight": {
+              "unit": "AUTO"
+            },
+            "listSpacing": 0,
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE"
+          },
+          "$type": "typography"
+        }
+      }
+    },
+    "color": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "ColorSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the color tokens",
+      "dog": {
+        "$extensions": {
+          "dsys.level": "tokenset",
+          "dsys.type": "ColorSet",
+          "dsys.name": "dog",
+          "dsys.nodeId": "105:3473"
+        },
+        "$description": "dog color tokens",
+        "dog-100": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-100",
+            "dsys.index": 0,
+            "dsys.styleId": "S:5cf553c9d5ded37bd0a2ad2c295bc6094024ffb6,"
+          },
+          "$value": {
+            "hex": "#f3e0ff",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-200": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-200",
+            "dsys.index": 1,
+            "dsys.styleId": "S:5077dbd66fbd8d8203f453a75183f6f503f45aaf,"
+          },
+          "$value": {
+            "hex": "#dfb6fa",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-300": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-300",
+            "dsys.index": 2,
+            "dsys.styleId": "S:29444029fe718f20ce0bf7a1186431cb7abda615,"
+          },
+          "$value": {
+            "hex": "#c68ced",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-400": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-400",
+            "dsys.index": 3,
+            "dsys.styleId": "S:e3821dabece95276174a2108d095c856b00176f8,"
+          },
+          "$value": {
+            "hex": "#ad67db",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-500": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-500",
+            "dsys.index": 4,
+            "dsys.styleId": "S:2065ac517c005e8564c77a225607488da9c41309,"
+          },
+          "$value": {
+            "hex": "#8f44c2",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog",
+            "dsys.index": 5,
+            "dsys.styleId": "S:663f9c5a65f3ae2767647b5e70b11f4f22e35c1f,"
+          },
+          "$value": {
+            "hex": "#8f44c2",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-600": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-600",
+            "dsys.index": 6,
+            "dsys.styleId": "S:48afb07602b664b09ba41af252129fc46e280f2f,"
+          },
+          "$value": {
+            "hex": "#7c2eb0",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-700": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-700",
+            "dsys.index": 7,
+            "dsys.styleId": "S:ab21de80d5c9826941712052db86d73895c1a1f8,"
+          },
+          "$value": {
+            "hex": "#631994",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-800": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-800",
+            "dsys.index": 8,
+            "dsys.styleId": "S:2d164237bf396450bf84072f437911c3a901e931,"
+          },
+          "$value": {
+            "hex": "#4a0975",
+            "alpha": 1
+          },
+          "$type": "color"
+        },
+        "dog-900": {
+          "$extensions": {
+            "dsys.level": "token",
+            "dsys.name": "dog-900",
+            "dsys.index": 9,
+            "dsys.styleId": "S:e867482566b0058b51c3c002326401c879c0a07c,"
+          },
+          "$value": {
+            "hex": "#330154",
+            "alpha": 1
+          },
+          "$type": "color"
+        }
+      }
+    }
+  }
+}
