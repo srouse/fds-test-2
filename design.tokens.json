@@ -569,6 +569,14 @@
           "$type": "svg"
         }
       }
+    },
+    "effect": {
+      "$extensions": {
+        "dsys.level": "group",
+        "dsys.type": "EffectSet",
+        "dsys.nodeIds": []
+      },
+      "$description": "All the effect tokens"
     }
   }
 }
