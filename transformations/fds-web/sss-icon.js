@@ -38,6 +38,12 @@ const template = document.createElement('template');
     async getSvg(icon) {
       let svg;
       switch (icon) {
+        case 'default' :
+          svg = await import('./icons/default.js');
+          break;
+        case 'paw' :
+          svg = await import('./icons/paw.js');
+          break;
       }
       if (svg) {
         this.shadowRoot.querySelector(
