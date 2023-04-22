@@ -1,6 +1,6 @@
 {
   "name": "@srouse/fds-test-2",
-  "version": "v0.0.3",
+  "version": "v0.0.4",
   "main": "index.js",
   "repository": "git@github.com:srouse/fds-test-2.git",
   "dependencies": {
